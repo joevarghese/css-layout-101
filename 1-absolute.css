@@ -1,0 +1,21 @@
+header{
+}
+main{
+    position:absolute;
+    right:25%
+}
+
+aside{
+    width:25%;
+    right:75%;
+    position: absolute;
+    left:75%;
+    bottom:57%;  ;
+
+}
+
+footer{
+    position:absolute;
+    top: 95%; 
+    width:100%
+}
